@@ -1,3 +1,22 @@
+# チュートリアル
+## フロントエンド エコシステムの説明
+- react, npm, typescript 
+## ファイル構成の説明
+- node_modules, app.test.tsx package.json, package-lock.json, tsconfig.json
+## とりあえず動かす npm run start
+## App.tsxの説明
+- function component -> class component
+## hot loading, debugging
+- dev tool
+
+
+
+
+
+
+
+
+# tutorial todo app 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
